@@ -1,0 +1,9 @@
+com\iaas\sms\multitenant\config\MongoDbConfiguration.class
+com\iaas\sms\multitenant\controller\MultitenancyController.class
+com\iaas\sms\multitenant\model\Tenant.class
+com\iaas\sms\multitenant\repository\MultitenancyRepository.class
+com\iaas\sms\multitenant\config\MultitenantFilter.class
+com\iaas\sms\multitenant\config\MultiTenantMongoDbFactory.class
+com\iaas\sms\multitenant\config\RandomNumGenerator.class
+com\iaas\sms\multitenant\MultitenancyApplication.class
+com\iaas\sms\multitenant\service\MultitenancyService.class

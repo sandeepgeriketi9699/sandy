@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Implementation-Title: IaaS multitenant MSA
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: spsoft
+Implementation-Vendor-Id: com.iaas.sms
+Build-Jdk: 1.8.0_181
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/iaas-sms-multitenant
+Created-By: Maven Integration for Eclipse
+Main-Class: com.iaas.sms.multitenant.MultitenancyApplication
+
